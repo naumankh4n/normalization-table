@@ -1,4 +1,4 @@
-Unicode Variants for Cybersecurity Testing
+# **Unicode Variants for Cybersecurity Testing**
 
 A curated repository of Unicode character variants for multiple characters, designed to help security researchers, developers, and bug hunters test for Unicode normalization vulnerabilities, homograph attacks, and character obfuscation in software systems.
 
