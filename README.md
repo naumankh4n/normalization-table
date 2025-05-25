@@ -1,8 +1,8 @@
-#Unicode Variants for Cybersecurity Testing
+Unicode Variants for Cybersecurity Testing
 
 A curated repository of Unicode character variants for multiple characters, designed to help security researchers, developers, and bug hunters test for Unicode normalization vulnerabilities, homograph attacks, and character obfuscation in software systems.
 
-#🚀 Purpose
+🚀 Purpose
 
 Unicode characters can have many visually similar variants across different scripts, diacritics, and styles. These variants are often abused in:
 
@@ -12,7 +12,7 @@ Unicode characters can have many visually similar variants across different scri
 
     Phishing and social engineering: Confusing users by visually deceptive characters.
 
-#This repository provides collections of variants for various base characters to facilitate:
+This repository provides collections of variants for various base characters to facilitate:
 
     Security testing & pentesting
 
@@ -20,7 +20,7 @@ Unicode characters can have many visually similar variants across different scri
 
     Research and education on Unicode-based attack vectors
 
-#📦 Contents
+📦 Contents
 
     Unicode variant lists for multiple characters (e.g., e, a, o, i, c, etc.)
 
@@ -28,7 +28,7 @@ Unicode characters can have many visually similar variants across different scri
 
     README with usage instructions and context
 
-#🔍 Use Cases
+🔍 Use Cases
 
     Test input validation systems and filters for proper Unicode normalization (NFC, NFD, NFKC, NFKD)
 
